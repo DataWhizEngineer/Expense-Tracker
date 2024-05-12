@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+##  Take Control of Your Finances with This Full-Stack Expense Tracker 
 
-First, run the development server:
+This project is a full-stack expense tracker application designed to empower you to manage your finances effectively. Built with modern web technologies, it offers a user-friendly experience and beautiful aesthetics.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Tech Stack:**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* Frontend: Next.js, React, Tailwind CSS, Shaden Design System
+* Authentication : Clerk Authentication.
+* Backend: Drizzle ORM (Database Agnostic) ️
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+**Features:**
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+* Effortlessly track income and expenses  ➕
+* Gain insights through clear visualizations  
+* Manage expenses by category for better budgeting  
+* Tailwind CSS and Shaden ensure a clean and responsive UI  ✨
 
-## Learn More
+![image](https://github.com/DataWhizEngineer/Expense-Tracker/assets/141387846/40bc0b84-f959-4cbb-9904-9e71d55e0521)![image](https://github.com/DataWhizEngineer/Expense-Tracker/assets/141387846/e15f58fb-e485-4f42-93f9-dcfe743d2d6b)![image](https://github.com/DataWhizEngineer/Expense-Tracker/assets/141387846/e9eabef2-cae7-4ee7-9c22-3e93380ee389)![image](https://github.com/DataWhizEngineer/Expense-Tracker/assets/141387846/e4d2329a-f7ff-4cb4-a4ca-714fa8280804)![image](https://github.com/DataWhizEngineer/Expense-Tracker/assets/141387846/c039964c-202c-41a4-ab78-bcc55eb06509)
 
-To learn more about Next.js, take a look at the following resources:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/DataWhizEngineer/Expense-Tracker/assets/141387846/b3264bb2-44ee-4526-9060-e3694bac090a)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
